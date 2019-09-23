@@ -7,9 +7,9 @@ This challenge serves as the first round competition for hackStat 2.0.
 
 ## Guide
 
-* [In this repository](http://www.dropwizard.io/1.0.2/docs/) - Code for Random Forest Classifier Prediction
-* [In Azure AI Gallery](https://gallery.cortanaintelligence.com/Experiment/First-round-competition-for-hackStat-2-0) - Implementation for Two-Class Boosted Decision Tree
-* [Report](https://gallery.cortanaintelligence.com/Experiment/First-round-competition-for-hackStat-2-0) - Detailed Report
+* [In this repository](https://github.com/nishanc/hackstat-2.0/tree/master/Code) - Code for Random Forest Classifier Prediction
+* [In Azure AI Gallery](https://gallery.cortanaintelligence.com/Experiment/First-round-competition-for-hackStat-2-0-by-team-AsyncWave) - Implementation for Two-Class Boosted Decision Tree
+* [Report](https://github.com/nishanc/hackstat-2.0/tree/master/Report) - Detailed Report
 
 ## Authors
 
