@@ -13,7 +13,11 @@ This challenge serves as the first round competition for hackStat 2.0.
 
 ## Authors
 
-* **[Nishan Chathuranga](https://github.com/nishanc)** - *Initial work* 
+* **[Nishan Chathuranga](https://github.com/nishanc)** - *Initial work / Team lead* 
+* **Hansani Wathsala** - *Initial work* 
+* **[Hirushi Ekanayaka](https://github.com/Hirushi329)** - *Initial work* 
+* **[Sachini Wijesinghe](https://github.com/Sachzzwijesinghe)** - *Initial work* 
+* **Thihari Wijesinghe** - *Initial work* 
 
 ## License
 
