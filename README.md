@@ -7,11 +7,11 @@ This challenge serves as the first round and final round competition for hackSta
 
 ## Guide
 
-* [In this repository](https://github.com/nishanc/hackstat-2.0/tree/master/Code) - Code for Random Forest Classifier Prediction - First Round
-* [In this repository](https://github.com/nishanc/hackstat-2.0/tree/master/Code) - Code for Random Forest Classifier Prediction - Final Round
+* [In this repository](https://github.com/nishanc/hackstat-2.0) - Code for Random Forest Classifier Prediction - First Round
+* [In this repository](https://github.com/nishanc/hackstat-2.0) - Code for Random Forest Classifier Prediction - Final Round - Retail Use Case
 * [In Azure AI Gallery](https://gallery.cortanaintelligence.com/Experiment/First-round-competition-for-hackStat-2-0-by-team-AsyncWave) - Implementation for Two-Class Boosted Decision Tree - First Round
-* [In Azure AI Gallery](https://gallery.cortanaintelligence.com/Experiment/Second-round-competition-for-hackStat-2-0-by-AsyncWave) - Implementation for Two-Class Boosted Decision Tree - Final Round
-* [Report](https://github.com/nishanc/hackstat-2.0/tree/master/Report) - Detailed Report
+* [In Azure AI Gallery](https://gallery.cortanaintelligence.com/Experiment/Second-round-competition-for-hackStat-2-0-by-AsyncWave) - Implementation for Two-Class Boosted Decision Tree - Final Round - Retail Use Case
+* [Report](https://github.com/nishanc/hackstat-2.0/tree/master/hackstat2k19-stage-1/Report) - Detailed Report - First Round
 
 ## Authors
 
